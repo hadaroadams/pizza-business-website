@@ -1,0 +1,14 @@
+.topImage{
+    height: 300px;
+    width:100%;
+    background-size:cover;
+}
+.buttomSide{
+    display: flex;
+}
+.downImage{
+    height:200px;
+    width: 300px;
+    background-size: cover;
+    margin: 20px;
+}
